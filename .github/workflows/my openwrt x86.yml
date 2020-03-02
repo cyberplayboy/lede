@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: openwrt x86 
+name: openwrt x86 去掉了广告拦截
 
 on:
   schedule:
